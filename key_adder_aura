@@ -1,0 +1,6 @@
+{
+  "jsonrpc": "2.0",
+  "id": 1,
+  "method": "author_insertKey",
+  "params": ["<aura>", "senior axis poet decide sure fox deer occur robot hybrid favorite fat", "0x1e09cee4becd67694dd27c553bdbc90a3325141451eb13ba24edd6d4d821ca30"]
+}
